@@ -19,7 +19,7 @@ st.set_page_config(
 
 #METİN GÖRÜNTÜLEME
  
-st.text('Neptune AI Blog') #sabit genişlikte ve önceden biçimlendirilmiş metin görüntüler
+st.text('Neptune AI Blog') #sabit genişlikte ve önceden biçimlendirilmiş metin görüntüler.
 st.markdown('# This is Heading 1 in Markdown')#markdown metnini gösteriyor
 st.latex(r'''
 ...     a + ar + a r^2 + a r^3 + cdots + a r^{n-1} =
